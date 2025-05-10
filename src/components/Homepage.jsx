@@ -4,7 +4,7 @@ import { Input } from "./Input";
 import { Textarea } from "./Textarea";
 import { motion } from "framer-motion";
 import { Menu, X } from "lucide-react";
-import { Button } from "./button";
+import { Button } from "./Button";
 import { Mail, Phone, MapPin, Clock } from "lucide-react";
 import { Rocket, Code2, Sparkles , Smartphone,Brain, Palette, Cloud, Settings, } from "lucide-react";
 import { useEffect } from "react";
