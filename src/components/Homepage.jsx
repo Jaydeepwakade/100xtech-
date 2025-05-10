@@ -88,7 +88,7 @@ export default function Homepage() {
       <div className="max-w-7xl mx-auto flex justify-between items-center px-6 py-4">
         {/* Logo Section */}
         <h1 className="text-3xl font-semibold text-amber-400">
-          <span className="text-red-600">100</span>xTech
+          <span className="text-red-600">Ton</span>xTech
         </h1>
 
         {/* Desktop Navigation */}
