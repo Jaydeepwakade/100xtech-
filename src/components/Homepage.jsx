@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Card, CardContent } from "./card";
+import { Card, CardContent } from "./Card";
 import { Input } from "./Input";
 import { Textarea } from "./Textarea";
 import { motion } from "framer-motion";
