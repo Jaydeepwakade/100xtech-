@@ -3,11 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+   "homepage": "https://jaydeepwakade.github.io/100xtech",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "vite build",  // Builds the app
+    "deploy": "gh-pages -d dist"  // Deploys the build folder to GitHub Pages
   },
   "dependencies": {
     "@headlessui/react": "^2.2.2",
